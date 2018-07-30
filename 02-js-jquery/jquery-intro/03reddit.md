@@ -4,9 +4,9 @@ Following the directions below to practice using jQuery:
 
 - Go to http://www.reddit.com
 
-- Reddit uses jQuery, so we can use our Chrome developer console to manipulate the site in real time using jQuery. Note that not everyone webpage uses jQuery, so this won't work on every webpage.
+- Reddit uses jQuery, so we can use our Chrome developer console to manipulate the site in real time using jQuery. Note that not every webpage uses jQuery, so this won't work everywhere.
 
-- To do this, once Reddit.com has loaded, go to your view menu in Chrome. Select View > Developer > JavaScript Console
+- To do this, once Reddit.com has loaded, go to your view menu in Chrome. (Select View > Developer > JavaScript Console or keyboard shortcut: option+command+j.)
 
 - Once that's loaded, try entering the following command into the Chrome REPL:
 ```js
