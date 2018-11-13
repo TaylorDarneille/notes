@@ -193,7 +193,7 @@ SELECT id, name FROM students;
 UPDATE students SET email='bobby@example.com' WHERE name = 'Bob Jones';
 ```
 
-##DELETE-ing Data
+## DELETE-ing Data
 
 ```sql
 DELETE from students WHERE name = 'Mary';
@@ -210,6 +210,8 @@ DELETE from students WHERE email = 'bobby@example.com';
 ```sql
 DROP TABLE students;
 ```
+
+## Lab time: [Where in the world is Carmen San Diego??](https://github.com/WDI-SEA/sql-carmen-san-diego) 
 
 ## Database Schema Design
 
