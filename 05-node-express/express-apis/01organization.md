@@ -1,5 +1,5 @@
-# Lab: Layouts and Controllers
-
+# Lab: Layouts and Controllers 
+(approx 30 min)
 Express gives us a lot of flexibility out of the box (configuration over convention). While this is a good thing, it can become a problem when we don't take the time to organize our project.
 
 ### Objectives
